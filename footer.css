@@ -1,0 +1,196 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 140px 20px 32px;
+    gap: 200px;
+  
+    height: 474px;
+    background: #043873;
+  }
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 50px;
+  
+  }
+  .footer-info {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 100px;
+  
+  }
+  
+  .footer-logo-description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+  
+  }
+  
+  /* .footer-logo {
+    width: 191px;
+    height: 34px;
+  } */
+  .footer-txt {
+  
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+  
+    color: #f7f7ee;
+  }
+  
+  .footer-info-small {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+  
+  }
+  .footer-product-resources-company {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+    color: #fff;
+  }
+  
+  .footer-list-element {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer-try-it-today {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 23px;
+  
+  }
+  
+  .footer-h5 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+  
+    color: #ffffff;
+  }
+  .footer-txtbox {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    /* or 125% */
+    letter-spacing: -0.02em;
+  
+    color: #ffffff;
+  }
+  .divider-footer{
+    width: 100%;
+    border: 1px solid #2E4E73;
+  }
+  .footer-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 35px;
+    gap: 10px;
+    background: #4f9cf9;
+    border-color: #4f9cf9;
+    border-radius: 8px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+  }
+  .footer-btm {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 20px;
+    width: 100%;
+  }
+  
+  .footer-terms-and-conditions {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 60px;
+  
+  }
+  
+  .footer-social-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 32px;
+  
+  }
+  .footer-line {
+  position: absolute;
+  margin-top: -84px;
+  border: 1px solid #2e4e73;
+}
+
+.footer-language {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 6px;
+
+}
+
+.footer-language-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+}
+
+.footer-language-txt {
+  width: 53px;
+  height: 20px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
